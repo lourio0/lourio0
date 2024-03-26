@@ -5,15 +5,17 @@
 
 # 👋 Nathan Bardavid
 
-Welcome to my GitHub! A 42 student deeply immersed in coding adventures and the art of tinkering on my PC. Here's a snapshot:
+Welcome to my **GitHub**! A **42 student** deeply immersed in coding adventures and the art of tinkering on my PC. Here's a snapshot:
 
 ---
 
 ## 🖥️ About Me
 
 > Started coding at 16, exploring the digital realm.
-> Engaged in C and C++ projects, constantly curious.
-> Loves to experiment and create with code.
+
+> Engaged in **C** and **C++** projects, constantly curious.
+
+> **Loves** to experiment and create with code.
 
 ## 🚀 Projects
 
@@ -22,6 +24,7 @@ Welcome to my GitHub! A 42 student deeply immersed in coding adventures and the 
 ## 🛠 Skills
 
 > **Languages:** `C`, `C++`, `Python`
+
 > **Tools & Environments:** `Bash`, `Linux`, `Arch`, `NeoVim`
 
 <p align="center">
