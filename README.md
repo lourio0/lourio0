@@ -5,6 +5,8 @@
 
 ### Hi there 👋
 
+## Skills
+![gif Code](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o2dW5udDNpZml6bmZqd3FyaXNxbjRkYWx2OHJ0azhjbHMyajhocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsVLQTBtpTQ7bZC/giphy.gif)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim)](https://skillicons.dev)
 
 <!--
