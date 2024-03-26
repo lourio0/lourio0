@@ -4,6 +4,9 @@
 </p>
 
 ### Hi there 👋
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim)](https://skillicons.dev)
+
 <!--
 **lourio0/lourio0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
