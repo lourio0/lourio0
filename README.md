@@ -3,11 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtnOTZoN2ExeGRnbnEzbzFhNjZjdjllaWxtZGluaWxpemk1b3pvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Random GIF">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtnOTZoN2ExeGRnbnEzbzFhNjZjdjllaWxtZGluaWxpemk1b3pvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Random GIF">
-</p>
-
-# Nathan Bardavid :wave:
+# 👋 Nathan Bardavid
 
 Welcome to my GitHub! A 42 student deeply immersed in coding adventures and the art of tinkering on my PC. Here's a snapshot:
 
