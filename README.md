@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Gif profile](https://giphy.com/embed/gH1jGsCnQBiFHWMFzh)
+![Gif profile](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdlNG1maGd2ZXZrZDY1Y280N2JvcXJuZ2k5bnllZTVtaDB0b3ZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVHqgiSHGbw66kSpie/giphy.gif)
 <!--
 **lourio0/lourio0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
