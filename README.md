@@ -3,7 +3,24 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtnOTZoN2ExeGRnbnEzbzFhNjZjdjllaWxtZGluaWxpemk1b3pvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Random GIF">
 </p>
 
-### Hi there 👋
+# Nathan Bardavid 👋
+
+Welcome to my GitHub! A 42 student deeply immersed in coding adventures and the art of tinkering on my PC. Here's a snapshot:
+
+## 🖥️ About Me
+- Started coding at 16, exploring the digital realm.
+- Engaged in C and C++ projects, constantly curious.
+- Loves to experiment and create with code.
+
+## 🛠 Skills
+- Languages: `C`, `C++`, `Python`
+- For a detailed skills badge collection, check my repositories.
+
+## 🚀 Projects
+- My portfolio showcases projects that span academic to personal, primarily in C and C++.
+
+## ❤️ Hobbies
+- Beyond coding, I'm all about pushing limits and exploring new tech frontiers.
 
 ## 💻 Skills
 
@@ -17,7 +34,7 @@
 </p>
 
 <details>
-    <summary> <h1>Achievements : </h1> </summary>
+    <summary> <h3>Achievements : </h3> </summary>
     <li> 1st Circle :
         <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 112/100" length="100" width="100"><img src="./badges/ft_printfm.png"  title="Ft-printf: 125/100" length="100" width="100"><img src="./badges/born2berootm.png"  title="B2B: 125/100" length="100" width="100"> </br>
     <li>2nd Circle : <img src="./badges/push_swapm.png"  title="Push-swap: 125/100" length="100" width="100"><img src="./badges/pipexm.png"  title="Pipex: 125/125" length="100" width="100"><img src="./badges/fdfm.png"  title="FDF : 125/100" length="100" width="100"> </br>
