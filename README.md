@@ -9,6 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim)](https://skillicons.dev)
 
+## 42 profile
+[![nbardavi's 42 stats](https://badge.mediaplus.ma/darkblue/nbardavi)](https://github.com/oakoudad/badge42)
 <!--
 **lourio0/lourio0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
