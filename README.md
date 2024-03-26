@@ -9,17 +9,22 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim)](https://skillicons.dev)
 
-<details>
-<summary> <h2>Achievements : </h2> </summary>
-<li> 1st Circle :
-<img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 112/100" length="100" width="100"><img src="./badges/ft_printfm.png"  title="Ft-printf: 125/100" length="100" width="100"><img src="./badges/born2berootm.png"  title="B2B: 125/100" length="100" width="100"> </br>
-<li>2nd Circle : <img src="./badges/push_swapm.png"  title="Push-swap: 125/100" length="100" width="100"><img src="./badges/pipexm.png"  title="Pipex: 125/125" length="100" width="100"><img src="./badges/fdfm.png"  title="FDF : 125/100" length="100" width="100"> </br>
-<li>3rd Circle : <img src="./badges/minishellm.png"  title="Minishell : 125/100" length="100" width="100"><img src="./badges/philosophersm.png"  title="Philosophers : 125/100" length="100" width="100">
-<li>4rd Circle : <img src="./badges/netpracticem.png"  title="Netpractice : 100/100" length="100" width="100"><img src="./badges/cppn.png"  title="Cpp 0-4: pending..." length="100" width="100">
-</details>
 
 ## 42 profile
-[![nbardavi's 42 stats](https://badge.mediaplus.ma/darkblue/nbardavi)](https://github.com/oakoudad/badge42)
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/nbardavi" alt="My stats">
+</p>
+
+<details>
+    <summary> <h1>Achievements : </h1> </summary>
+    <li> 1st Circle :
+        <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 112/100" length="100" width="100"><img src="./badges/ft_printfm.png"  title="Ft-printf: 125/100" length="100" width="100"><img src="./badges/born2berootm.png"  title="B2B: 125/100" length="100" width="100"> </br>
+    <li>2nd Circle : <img src="./badges/push_swapm.png"  title="Push-swap: 125/100" length="100" width="100"><img src="./badges/pipexm.png"  title="Pipex: 125/125" length="100" width="100"><img src="./badges/fdfm.png"  title="FDF : 125/100" length="100" width="100"> </br>
+    <li>3rd Circle : <img src="./badges/minishellm.png"  title="Minishell : 125/100" length="100" width="100"><img src="./badges/philosophersm.png"  title="Philosophers : 125/100" length="100" width="100">
+    <li>4rd Circle : <img src="./badges/netpracticem.png"  title="Netpractice : 100/100" length="100" width="100"><img src="./badges/cppn.png"  title="Cpp 0-4: pending..." length="100" width="100">
+</details>
+
 <!--
 **lourio0/lourio0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
