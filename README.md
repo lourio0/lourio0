@@ -11,6 +11,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o2dW5udDNpZml6bmZqd3FyaXNxbjRkYWx2OHJ0azhjbHMyajhocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsVLQTBtpTQ7bZC/giphy.gif" width="32" height="20" alt="Skills GIF">
 </p>
 
+<p align="left">
+  <img src="https://media.giphy.com/media/3o6ZsVLQTBtpTQ7bZC/giphy.gif" width="32" height="20" alt="Skills GIF">
+  <!-- Vous pouvez essayer d'ajouter du style directement ici pour le titre, mais cela peut ne pas fonctionner comme prévu sur GitHub -->
+  <h2>Skills</h2>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim)](https://skillicons.dev)
 
 <!--
