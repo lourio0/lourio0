@@ -3,29 +3,39 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtnOTZoN2ExeGRnbnEzbzFhNjZjdjllaWxtZGluaWxpemk1b3pvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Random GIF">
 </p>
 
-# Nathan Bardavid 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtnOTZoN2ExeGRnbnEzbzFhNjZjdjllaWxtZGluaWxpemk1b3pvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Random GIF">
+</p>
+
+# Nathan Bardavid :wave:
 
 Welcome to my GitHub! A 42 student deeply immersed in coding adventures and the art of tinkering on my PC. Here's a snapshot:
 
+---
+
 ## 🖥️ About Me
+
 - Started coding at 16, exploring the digital realm.
 - Engaged in C and C++ projects, constantly curious.
 - Loves to experiment and create with code.
 
-## 🛠 Skills
-- Languages: `C`, `C++`, `Python`
-- For a detailed skills badge collection, check my repositories.
-
 ## 🚀 Projects
+
 - My portfolio showcases projects that span academic to personal, primarily in C and C++.
 
-## ❤️ Hobbies
+## 🛠 Skills
+
+- **Languages:** `C`, `C++`, `Python`
+- **Tools & Environments:** `Bash`, `Linux`, `Arch`, `NeoVim`
+- For a detailed skills badge collection, check my repositories.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim" alt="My Skills">
+</p>
+
+## ❤️  Hobbies
+
 - Beyond coding, I'm all about pushing limits and exploring new tech frontiers.
-
-## 💻 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim)](https://skillicons.dev)
-
 
 ## 42 profile
 
