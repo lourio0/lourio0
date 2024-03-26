@@ -15,19 +15,18 @@ Welcome to my GitHub! A 42 student deeply immersed in coding adventures and the 
 
 ## 🖥️ About Me
 
-- Started coding at 16, exploring the digital realm.
-- Engaged in C and C++ projects, constantly curious.
-- Loves to experiment and create with code.
+> Started coding at 16, exploring the digital realm.
+> Engaged in C and C++ projects, constantly curious.
+> Loves to experiment and create with code.
 
 ## 🚀 Projects
 
-- My portfolio showcases projects that span academic to personal, primarily in C and C++.
+> My portfolio showcases projects that span academic to personal, primarily in C and C++.
 
 ## 🛠 Skills
 
-- **Languages:** `C`, `C++`, `Python`
-- **Tools & Environments:** `Bash`, `Linux`, `Arch`, `NeoVim`
-- For a detailed skills badge collection, check my repositories.
+> **Languages:** `C`, `C++`, `Python`
+> **Tools & Environments:** `Bash`, `Linux`, `Arch`, `NeoVim`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arch,neovim" alt="My Skills">
@@ -35,7 +34,9 @@ Welcome to my GitHub! A 42 student deeply immersed in coding adventures and the 
 
 ## ❤️  Hobbies
 
-- Beyond coding, I'm all about pushing limits and exploring new tech frontiers.
+> Beyond coding, I'm all about pushing limits and exploring new tech frontiers.
+
+---
 
 ## 42 profile
 
