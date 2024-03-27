@@ -40,7 +40,7 @@ Welcome to my **GitHub**! A **42 student** deeply immersed in coding adventures 
 ## 42 profile
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/nbardavi" alt="My stats">
+  <img src="https://badge.mediaplus.ma/darkblue/nbardavi?1337Badge=off&UM6P=off" alt="My stats">
 </p>
 
 <details>
